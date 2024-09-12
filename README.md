@@ -1,16 +1,17 @@
-# lil_broc
+# Clon de Pantallas de Lilbroc
 
-A new Flutter project.
+Este repositorio contiene un clon de las pantallas de la aplicación **Lilbroc** desarrollado con Flutter. Este proyecto está enfocado únicamente en la interfaz de usuario (UI) y no incluye la funcionalidad backend o la lógica de negocio de la aplicación original.
 
-## Getting Started
+## Acerca del Proyecto
 
-This project is a starting point for a Flutter application.
+- **Aplicación Original**: Lilbroc, una aplicación disponible en [lilbroc.com](https://lilbroc.com/).
+- **Objetivo**: Reproducción de las pantallas y diseño visual de la aplicación utilizando Flutter para fines de estudio y práctica de desarrollo de UI.
 
-A few resources to get you started if this is your first Flutter project:
+## Características
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- **Interfaz de Usuario**: Clonación de las pantallas principales de la aplicación Lilbroc, incluyendo el diseño y la disposición de elementos.
+- **Diseño Adaptativo**: Implementación de un diseño que se adapta a diferentes tamaños de pantalla.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologías Utilizadas
+
+- **Flutter**: Framework para el desarrollo de la interfaz de usuario.
